@@ -1,6 +1,6 @@
 ### Hey, I'm Isfar 👋 
 
-I'm a 26 year old developer based in Dallas,TX and I'm passionate about crafting digital experiences. 
+I'm a 27 year old developer based in Dallas,TX and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://www.isfarhassan.dev/) to learn more about me.
 - Explore my [blog](https://isfarhassan.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
