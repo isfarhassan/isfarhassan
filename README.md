@@ -11,10 +11,9 @@ I'm a Software Developee and BI analyst based in Dallas,TX and I'm passionate ab
 
 I'm currently working as a Data Scientist, where my journey involves both Creating and utilizing Data. I studied Computer Science from The Univeristy of Texas at Dallas. Here's what I'm currently focused on:
 
-- I'm proficient in Python.
-- I'm love exploring creative ways of transforming data for perticular purpose
-- I'm engaged in exciting fullstack projects.
-- I'm an early riser, always driven and constantly learning in the tech world.
+- Proficient in Python.
+- I love exploring creative ways of transforming data for perticular purpose
+- Iengaged in exciting fullstack projects.
 
 ## ✨ Fun Facts 
 
