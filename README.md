@@ -2,7 +2,7 @@
 
 I'm a Software Developer and BI Analyst based in Dallas, TX. I'm passionate about building practical digital solutions, creating meaningful data experiences, and turning ideas into useful products.
 
-* Check out my [website](https://www.isfarhassan.dev/) to learn more about me.
+* Check out my [website](https://www.isfarhassan.com/) to learn more about me.
 * Explore my [blog](https://isfarhassan.hashnode.dev/?source=top_nav_blog_home), where I share insights, projects, and lessons learned.
 * Stay connected with me on [Instagram](https://www.instagram.com/isfarhassan) and [LinkedIn](https://www.linkedin.com/in/isfarhassan).
 * Explore my [VS Code Configuration](https://github.com/isfarhassan/vscode-settings) for development optimization.
